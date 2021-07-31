@@ -1,0 +1,40 @@
+body {
+  background: #aaa;
+}
+
+.producto img {
+  height: 250px;
+  object-fit: cover;
+}
+.producto {
+  text-align: center;
+  margin: 10px;
+  width: 30%;
+}
+
+.imagen {
+  width: 10%;
+}
+.imagen img {
+  width: 50px;
+  height: 50px;
+}
+.nombre {
+  width: 30%;
+}
+.precio {
+  width: 20%;
+}
+.cantidad {
+  width: 20%;
+}
+.cantidad input {
+  width: 50%;
+}
+.total-producto {
+  width: 20%;
+}
+.eliminar {
+  width: 10%;
+  text-align: center;
+}

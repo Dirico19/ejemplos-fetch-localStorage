@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Henry",
+        "apellido": "Cavill",
+        "edad": 38
+    },
+    {
+        "id": 2,
+        "nombre": "Gal",
+        "apellido": "Gadot",
+        "edad": 36
+    },
+    {
+        "id": 3,
+        "nombre": "Ben",
+        "apellido": "Affleck",
+        "edad": 48
+    }
+]
